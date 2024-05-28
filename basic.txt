@@ -1,4 +1,3 @@
 안녕하세요.
 qksrkqtmqslek
-
-//git loggit 
+------------기존의 리포지토리에서 작성 
