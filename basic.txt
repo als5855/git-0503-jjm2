@@ -1,4 +1,4 @@
 안녕하세요.
 qksrkqtmqslek
 
-//git loggit 
+해당 내용은 git practice에서 작성 되었습니다.
